@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-body{
+    background-color: rgb(177, 190, 216);
+}
+
+a{
+    cursor: pointer;
+}
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.img-carrito{
+    width: 200px;
+    padding: 20px;
+}
